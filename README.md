@@ -6,3 +6,5 @@ https://www.postman.com/downloads/
 
 
 Before execution of the api in your workspace you need to change the webconfig connection to database
+
+After getting connection with database use the sqlquery22 uploaded inthis repository.
